@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\bin\Debug\netcoreapp3.1\Dance.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\bin\Debug\netcoreapp3.1\Dance.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\bin\Debug\netcoreapp3.1\Dance.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\bin\Debug\netcoreapp3.1\Dance.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\bin\Debug\netcoreapp3.1\Dance.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\bin\Debug\netcoreapp3.1\Dance.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\obj\Debug\netcoreapp3.1\Dance.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\obj\Debug\netcoreapp3.1\Dance.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\obj\Debug\netcoreapp3.1\Dance.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\obj\Debug\netcoreapp3.1\Dance.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\obj\Debug\netcoreapp3.1\Dance.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\obj\Debug\netcoreapp3.1\Dance.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Dance\Dance\Dance\obj\Debug\netcoreapp3.1\Dance.genruntimeconfig.cache
